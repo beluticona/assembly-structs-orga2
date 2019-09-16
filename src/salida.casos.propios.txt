@@ -1,0 +1,22 @@
+TEST CASO LISTA: Creo y agrego elementos
+[34]
+[34,42]
+[13,34,42]
+[13,34,42,44]
+[13,34,42,44,58]
+[11,13,34,42,44,58]
+[11,13,34,42,44,58,92]
+[11,13,34,42,44,58,92]
+CASO LISTA: Elimino el 13 y 58
+[11,34,42,44,92]
+FIN CASO LISTA
+TEST CASO MATRIZ: Creo y agrego elementos
+|NULL|[1,2,3]|[SA,RA,SA]|NULL|
+|NULL|[[],2,3]|[SA,RA,SA]|NULL|
+|NULL|[[],[],3]|[[SA],[RA],[SA]]|35|
+|NULL|[[SA],[RA],[SA]]|[1,[2],3]|32|
+|NULL|[[ra,ra,33],[ro,ro,35]]|8|31|
+
+FIN CASO MATRIZ
+
+
